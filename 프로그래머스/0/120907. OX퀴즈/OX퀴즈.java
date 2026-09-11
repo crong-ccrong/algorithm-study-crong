@@ -17,6 +17,7 @@ class Solution {
                     break;
                 case "-" :
                     answer.add(X - Y == Z ? "O" : "X");
+                    break;
             }
         }
         
